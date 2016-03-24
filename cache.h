@@ -15,6 +15,8 @@
 // they want something more sophisticated (like scan-resistance, a
 // custom eviction policy, variable cache sizing, etc.)
 
+#pragma once
+
 #ifndef LRU_CACHE_H_
 #define LRU_CACHE_H_
 
